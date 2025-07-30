@@ -1,0 +1,22 @@
+WELCOME TO HUNGRY SNAKE
+
+-You can start playing by select 1 from the star menu
+-you will get 10 score everytime when eat normal fruit
+ successfully
+-After every 50 score a big fruit will appear on screen
+ more than 4 seconds
+-Bigfruit increase score by 20
+-when your score hit 200,400 and 600 game layout change
+ accordingly to harder gameplay
+-in the beginning you have 3 lives
+-when your snake hit borders or walls life count decrease
+ by 1
+-when life counts become 0 game over and you can restart
+ your game by just pressing R
+
+                   PLAY AND ENJOY
+
+
+
+...press any key to exit from instructions...
+
